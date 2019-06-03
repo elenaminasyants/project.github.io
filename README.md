@@ -1,7 +1,9 @@
 # Особенности цветописи в пьесах М. А. Булгакова
 # Сайт тутъ:
 https://elenaminasyants.github.io/project.github.io/
+
 *Рассмотреть пьесы М. А. Булгакова и постараться выявить некоторые законномерности в цветовой поэтике. Были использованы пять пьес:
 "Бег", "Адам и Ева", "Батум", "Пушкин" и "Иван Васильевич"*
-! (https://github.com/elenaminasyants/bulgakov.github.io/blob/master/n1.jpg)
+
+! [фото](https://github.com/elenaminasyants/bulgakov.github.io/blob/master/n1.jpg)
 
