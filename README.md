@@ -7,5 +7,13 @@ https://elenaminasyants.github.io/project.github.io/
 
 ! [фото](https://github.com/elenaminasyants/bulgakov.github.io/blob/master/n1.jpg)
 
+*Наши методы:*
++ Сначала мы сделали выборку текстов, затем лемматизировали их.
++ Следующим шагом стало примение Antconc, с помощью которого нам удалось выявить все цветовые маркеры в пьесах.
++ В конце мы воспользовались Gephi, чтобы представить визуализацию проделанной работы.
 
+# Инструменты:
++ Mystem
++ AntConc
++ Gephi
 
