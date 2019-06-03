@@ -19,4 +19,4 @@ https://elenaminasyants.github.io/project.github.io/
 
 # *Вдохновение* 
 *На Arzamas есть исследование, посвященное анализу вкуса и цвета в прозе Булгакова. Мы же решили проанализировать пьесы.*
-! [] ()
+! [фото] (https://github.com/elenaminasyants/project.github.io/blob/master/n3.jpg?raw=true)
